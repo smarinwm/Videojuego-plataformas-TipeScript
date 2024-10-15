@@ -1,4 +1,4 @@
-# Videojuego-plataformas-TipeScript
+# Videojuego-plataformas-TypeScript
 Videojuego realizado en el curso de desarrollo avanzado de videojuegos con Phaser.
 
 ## Comenzando 🚀
